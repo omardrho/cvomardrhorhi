@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
    
 	<head>
@@ -12,9 +12,9 @@
    <Div Align=Left>
              Drhorhi Omar<br />
 			<p>AGE:20ans</p>
-			ADRESSE:RES SAFAE N4 ETAGE 2 BELLE VUE 3 MEKNES</p>
+			ADRESSE:RES SAFAE N4 ETAGE 2 BELLE VUE 3 MEKNES
 			
-        </header>
+     
         
         
             <h3>OBJECTIF PROFESSIONEL</h3>
@@ -46,8 +46,7 @@
 				
             </article>
 			
-			</aside>
-            <article> 
+		
         <h3>COMPETENCES linguistiques</h3>			
             <ul>
            <li>ARABE: trés bien</li>
@@ -70,7 +69,7 @@
          </ul>
 			
                
-        </section>
+       
         <footer>
             <p>Edité par : DRHORHI OMAR <P/>
 			Dernière Mise à jour :01/11/2021
@@ -79,8 +78,4 @@
 
             <a href="#">Me contacter !</a></p>
         </footer>
-	</Div>
-        
-    </body>
 	
-</html>
