@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+   
+	<head>
+        <title>CV-OMAR DRHORHI</title>
+    </head>
+  <center>
+    <body>
+        <header>
+            <h1>DEMANDE DE STAGE</h1><br />
+   </center>
+   <Div Align=Left>
+             Drhorhi Omar<br />
+			<p>AGE:20ans</p>
+			ADRESSE:RES SAFAE N4 ETAGE 2 BELLE VUE 3 MEKNES</p>
+			
+        </header>
+        
+        
+            <h3>OBJECTIF PROFESSIONEL</h3>
+                <p>Je souhaite obtenir un emploi enrichissant dans un climat en adéquation avec mes valeurs.  </p>
+				
+				
+        
+        
+        <section>
+            <aside>
+                <h3>FORMATIONS</h3>
 
-You can use the [editor on GitHub](https://github.com/omardrho/cvomardrhorhi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+             <li>Baccalaureat 2018/2019.</li>
+             <li>Diplome d'ingenieur d'Etat:</li>
+             <p>A l'école Mohammadia d'ingenieurs.</p>        
+				
+				
+            </aside>
+		</section>
+		<section>
+		<h3>COMPETENCES Techniques</h3>
+                   
+         <ul>
+           <li>ponctualité</li>
+           <li>sérieux</li>
+            <li>curiosité</li>
+         </ul>			
+                
+				
+            </article>
+			
+			</aside>
+            <article> 
+        <h3>COMPETENCES linguistiques</h3>			
+            <ul>
+           <li>ARABE: trés bien</li>
+           <li>FRANCAIS:bien</li>
+            <li>ANGLAIS:bien</li>
+         </ul>
+                
+               
+				
+				
+            </article>
+        </section>
+		 <section>
+            <aside>
+			<h3> CENTRES D'INTERETS:</h3>
+		<ul>
+           <li>sport</li>
+           <li>voyage</li>
+            <li>lecture des livres </li>
+         </ul>
+			
+               
+        </section>
+        <footer>
+            <p>Edité par : DRHORHI OMAR <P/>
+			Dernière Mise à jour :01/11/2021
+			COPYRIGHTS <br />
+		
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omardrho/cvomardrhorhi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+            <a href="#">Me contacter !</a></p>
+        </footer>
+	</Div>
+        
+    </body>
+	
+</html>
